@@ -5,9 +5,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:F9E7E7,100:F9FFFF&text=DEV%20%20SUZY%20&textBg=false&fontColor=707D7D&reversal=false&fontSize=40&animation=fadeIn&fontAlignY=50&desc=Striving%20to%20make%20every%20frame%20render%20efficiently%20and%20beautifully%20&descSize=10&descAlign=50"/>
 
 ### 안녕하세요, 프론트엔드 개발자 수지입니다.
-<sub>💻 다양한 렌더링 기법을 탐구하는 데에 큰 흥미를 가지고 있어요</sub> 
+💻 다양한 렌더링 기법을 탐구하는 데에 흥미를 가지고 있어요
 <br />
-<sub>🤝 다른 사람들과 소통하고 지식을 나누는 걸 즐깁니다</sub> 
+🤝 다른 사람들과 소통하고 지식을 나누는 걸 즐깁니다.
 <br />
 <br />
 
