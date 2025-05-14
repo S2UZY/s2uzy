@@ -16,7 +16,7 @@
 [![📂 Notion Projects](https://img.shields.io/badge/Notion_Projects-000000?style=for-the-badge&logo=notion&logoColor=white)](https://crimson-fold-8fa.notion.site/fddec519126d4dee885254b5cde8ca1e?pvs=4)  
 <sub>어떤 프로젝트를 했는지 궁금하신가요? 여기에 모두 정리되어 있어요.</sub>  
 
-[![📓 TIL](https://img.shields.io/badge/TIL_Log-181717?style=for-the-badge&logo=github&logoColor=white)](https://your-til-link.com)  
+[![📓 TIL](https://img.shields.io/badge/TIL_Log-181717?style=for-the-badge&logo=github&logoColor=white)](https://s2uzy.github.io/blog/til)  
 <sub>하루하루의 성장 기록을 꾸준히 남기고 있어요!</sub>
 
 
