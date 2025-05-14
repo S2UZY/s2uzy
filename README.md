@@ -40,16 +40,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab_Projects-2C6D94?style=flat&logo=GitLab&logoColor=white)
+
 
 
 ## 📬 Contact Me
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suzy.hppy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kangsuzy)
 
-[![📧 Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suzy.hppy@gmail.com)  
-<sub>협업 제안이나 궁금한 점이 있다면 언제든지 이메일로 연락주세요.</sub>  
-
-[![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kangsuzy)  
-<sub>커리어와 이력은 LinkedIn에서 확인하실 수 있어요.</sub>
-
+<sub>📧 협업 제안이나 궁금한 점이 있다면 언제든지 이메일로 연락주세요.<br />
+🔗 커리어와 이력은 LinkedIn에서 확인하실 수 있어요.</sub>
 
 </div>
